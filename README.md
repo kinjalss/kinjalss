@@ -77,7 +77,9 @@ public class Kinjal {
 <!-- PROJECTS:START -->
 | Project | Language | Description | Stars |
 |---------|----------|-------------|-------|
-| 🔗 Loading... | — | This table auto-populates on the first workflow run. | — |
+| 🔗 [**genai-personal-assistant-springboot**](https://github.com/kinjalss/genai-personal-assistant-springboot) | `Java` | Generative AI-powered Personal Assistant using Spring Boot and Google Gemini API. | ⭐ 0 |
+| 🔗 [**php**](https://github.com/kinjalss/php) | `PHP` | No description yet. | ⭐ 0 |
+| 🔗 [**java-spring**](https://github.com/kinjalss/java-spring) | `Java` | No description yet. | ⭐ 0 |
 <!-- PROJECTS:END -->
 
 ---
