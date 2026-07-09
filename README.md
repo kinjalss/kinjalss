@@ -1,120 +1,181 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Hi%20There,%20I'm%20Kinjal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20|%20Building%20Scalable%20Web%20Applications&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&height=80&lines=Java+%7C+Spring+Boot+%7C+React.js;Building+Clean%2C+Scalable+Full-Stack+Apps" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ashwin&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=58&descSize=20&animation=fadeIn" />
 
 </div>
 
-<br/>
+---
 
-## 🚀 About Me
+<div align="center">
 
-- 🎓 Final-year **Computer Science** student, passionate about **Java Full-Stack Development**
-- 💻 Currently building projects with **Java, Spring Boot, React.js & MySQL**
-- ☁️ Exploring **AWS** for cloud deployment and scalable architecture
-- 🐛 Solving DSA problems consistently on **LeetCode** & **HackerRank**
-- 🌱 Always curious to learn new frameworks, tools, and best practices
-- ⚡ Fun fact: I enjoy turning messy requirements into clean, working code
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ashwin+%F0%9F%91%8B;Full-Stack+Java+%2B+React+Developer;Hackathon+Winner+%F0%9F%8F%86;Building+toward+FAANG+%F0%9F%9A%80;Open+to+Internships+%26+Collabs)](https://git.io/typing-svg)
 
-<br/>
+</div>
+
+---
+
+## 🧠 About Me
+
+```java
+public class Ashwin {
+
+    String[] stack     = {"Java", "Spring Boot", "React", "MySQL"};
+    String   degree    = "B.Tech CSE";
+    String   focus     = "Backend-heavy Full-Stack Development";
+    String[] currently = {"DSA on LeetCode", "AWS + Spring Cloud", "Building FAANG-ready projects"};
+    String   goal      = "Google SWE 🎯";
+    boolean  openTo    = true; // internships & collaborations
+
+    void run() {
+        while (alive) { code(); learn(); repeat(); }
+    }
+}
+```
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql&theme=dark" />
+**Languages & Frameworks**
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=aws,postman,idea,git,github,vscode&theme=dark" />
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Database & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
 
-<br/>
+---
 
 ## 📊 GitHub Stats
+*(self-hosted via GitHub Actions — no third-party API calls, so it never goes down)*
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=kinjalss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kinjalss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=kinjalss&theme=radical&hide_border=true&background=0D1117&ring=EC4899&fire=6366F1&currStreakLabel=EC4899" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kinjalss&theme=react-dark&hide_border=true&bg_color=0D1117&color=EC4899&line=6366F1&point=FFFFFF&days=30" width="95%"/>
-
-</div>
+<img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
+<img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kinjalss&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+<img src="./profile/streak.svg" alt="GitHub Streak" width="65%" />
 
 </div>
 
-<br/>
+---
 
-## 📌 Featured Projects
+## 🚀 Latest Projects
 *(auto-updates — always shows the 3 most recently pushed repos, newest first)*
 
-<!-- FEATURED-PROJECTS:START -->
+<!-- PROJECTS:START -->
 <div align="center">
 
-<a href="https://github.com/kinjalss/kinjalss" target="_blank">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kinjalss&repo=kinjalss&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/kinjalss/genai-personal-assistant-springboot" target="_blank">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kinjalss&repo=genai-personal-assistant-springboot&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/kinjalss/php" target="_blank">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kinjalss&repo=php&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF" />
-</a>
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+
+**🔗 [genai_java](https://github.com/0-ashwin-nair-0/genai_java)**
+<br/>`Java`
+<br/><br/>
+A Spring Boot backend service that connects to Google's Gemini API to power a simple conversational AI assistant with basic memory of past messages.
+<br/><br/>
+⭐ 0
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**🔗 [student-management-system](https://github.com/0-ashwin-nair-0/student-management-system)**
+<br/>`N/A`
+<br/><br/>
+No description yet.
+<br/><br/>
+⭐ 0
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**🔗 [java-journey](https://github.com/0-ashwin-nair-0/java-journey)**
+<br/>`Java`
+<br/><br/>
+Building strong Java fundamentals through hands-on coding, problem-solving, and real-world development.
+<br/><br/>
+⭐ 0
+
+</td>
+</tr>
+</table>
 
 </div>
-<!-- FEATURED-PROJECTS:END -->
+<!-- PROJECTS:END -->
 
-<br/>
+---
 
-## 📈 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kinjalss/kinjalss/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0-ashwin-nair-0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" />
+
 </div>
 
-<br/>
+---
+
+## 🏆 GitHub Trophies
+*(self-hosted via GitHub Actions — no third-party API calls, so it never goes down)*
+
+<div align="center">
+
+<img src="./profile/trophy.svg" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🏅 Hackathons
+
+<div align="center">
+
+| # | Event | Organizer | Result |
+|---|-------|-----------|--------|
+| 1 | Sustainable Development Goals Hackathon | Pimpri Chinchwad University | 🥇 1st Place |
+| 2 | Code4Society | Samsung Innovation Campus | 🥈 2nd Place |
+
+</div>
+
+---
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kinjal-surve-b638b1288" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Kinja1234/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.hackerrank.com/profile/kinjalsurvepune" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-nair0309/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ashwin_nair0309)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashwin_nair309)
 
 </div>
 
+---
+<div align="center">
+
+### 🌱 Always learning. Always building. Always improving.
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
+[![Hits](https://hits.sh/github.com/0-ashwin-nair-0.svg?style=for-the-badge)](https://hits.sh)
 </div>
