@@ -1,96 +1,125 @@
-<h1 align="center">Hello🙋‍♀️ I'm Kinjal Surve<br>Welcome to my Github</h1>
-
-###
-
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Hi%20There,%20I'm%20Kinjal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20|%20Building%20Scalable%20Web%20Applications&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Building+Clean%2C+Scalable+Full-Stack+Apps;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kinjal-surve-b638b1288" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Kinja1234/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.hackerrank.com/profile/kinjalsurvepune" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
 </div>
 
-###
+<br/>
+
+## 🚀 About Me
+
+- 🎓 Final-year **Computer Science** student, passionate about **Java Full-Stack Development**
+- 💻 Currently building projects with **Java, Spring Boot, React.js & MySQL**
+- ☁️ Exploring **AWS** for cloud deployment and scalable architecture
+- 🐛 Solving DSA problems consistently on **LeetCode** & **HackerRank**
+- 🌱 Always curious to learn new frameworks, tools, and best practices
+- ⚡ Fun fact: I enjoy turning messy requirements into clean, working code
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql&theme=dark" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=aws,postman,idea,git,github,vscode&theme=dark" />
+
 </div>
 
-###
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kinjal-surve-b638b1288" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/kiwi150603" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/kinjalsurvepune" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-</div>
 
-###
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinjalss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinjalss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=FFFFFF"/>
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kinjalss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kinjalss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kinjalss&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
-###
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kinjalss&theme=radical&hide_border=true&background=0D1117&ring=EC4899&fire=6366F1&currStreakLabel=EC4899" />
+
+</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kinjalss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=kinjalss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kinjalss&theme=react-dark&hide_border=true&bg_color=0D1117&color=EC4899&line=6366F1&point=FFFFFF" width="95%"/>
+
 </div>
 
-###
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinjalss/kinjalss/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kinjalss/kinjalss/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kinjalss/kinjalss/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kinjalss.kinjalss&"  />
+
+<img src="https://github-profile-trophy.vercel.app/?username=kinjalss&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+
 </div>
 
-###
+<br/>
+
+## 📌 Featured Projects
 
 <div align="center">
-  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcyMzc3NzQsIm5iZiI6MTc1NzIzNzQ3NCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA3VDA5MzExNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkZDQ3NmI4NzE1NTlmMzBkODk3NDVjZGQ5NjUyN2NkZjcxNGUzZTA0MmJjOWY5MTU5ZTExNWYxZmUwYzhlNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.J_I-og8FAM2Rp63H9hfpt5JTN6VxwX47wk0iS3goJtU"  />
+
+<a href="https://github.com/kinjalss" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kinjalss&repo=student-management-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF" />
+</a>
+
 </div>
 
-###
+> 📝 *Pin your top repositories on your GitHub profile to have them auto-populate here — replace the repo name above with your actual repository.*
+
+<br/>
+
+## 📈 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kinjalss/kinjalss/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kinjal-surve-b638b1288" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Kinja1234/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.hackerrank.com/profile/kinjalsurvepune" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=120&section=footer" width="100%"/>
+
+</div>
