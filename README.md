@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&height=80&lines=Java+%7C+Spring+Boot+%7C+React.js;Building+Clean%2C+Scalable+Full-Stack+Apps" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql&theme=dark" />
-
 </div>
 
 <br/>
@@ -43,20 +39,20 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinjalss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinjalss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=FFFFFF"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=kinjalss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kinjalss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=FFFFFF"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kinjalss&theme=radical&hide_border=true&background=0D1117&ring=EC4899&fire=6366F1&currStreakLabel=EC4899" />
+<img src="https://streak-stats.demolab.com/?user=kinjalss&theme=radical&hide_border=true&background=0D1117&ring=EC4899&fire=6366F1&currStreakLabel=EC4899" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kinjalss&theme=react-dark&hide_border=true&bg_color=0D1117&color=EC4899&line=6366F1&point=FFFFFF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kinjalss&theme=react-dark&hide_border=true&bg_color=0D1117&color=EC4899&line=6366F1&point=FFFFFF&days=30" width="95%"/>
 
 </div>
 
@@ -73,16 +69,17 @@
 <br/>
 
 ## 📌 Featured Projects
+*(auto-updates — always shows the 3 most recently pushed repos, newest first)*
 
+<!-- FEATURED-PROJECTS:START -->
 <div align="center">
 
-<a href="https://github.com/kinjalss" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kinjalss&repo=student-management-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF" />
+<a href="https://github.com/kinjalss/student-management-system" target="_blank">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kinjalss&repo=student-management-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF" />
 </a>
 
 </div>
-
-> 📝 *Pin your top repositories on your GitHub profile to have them auto-populate here — replace the repo name above with your actual repository.*
+<!-- FEATURED-PROJECTS:END -->
 
 <br/>
 
