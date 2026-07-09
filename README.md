@@ -2,21 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Hi%20There,%20I'm%20Kinjal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20|%20Building%20Scalable%20Web%20Applications&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Building+Clean%2C+Scalable+Full-Stack+Apps;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&height=80&lines=Java+%7C+Spring+Boot+%7C+React.js;Building+Clean%2C+Scalable+Full-Stack+Apps" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/kinjal-surve-b638b1288" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Kinja1234/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.hackerrank.com/profile/kinjalsurvepune" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql&theme=dark" />
 
 </div>
 
