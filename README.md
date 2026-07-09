@@ -74,8 +74,14 @@
 <!-- FEATURED-PROJECTS:START -->
 <div align="center">
 
-<a href="https://github.com/kinjalss/student-management-system" target="_blank">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kinjalss&repo=student-management-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF" />
+<a href="https://github.com/kinjalss/kinjalss" target="_blank">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kinjalss&repo=kinjalss&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/kinjalss/genai-personal-assistant-springboot" target="_blank">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kinjalss&repo=genai-personal-assistant-springboot&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/kinjalss/php" target="_blank">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kinjalss&repo=php&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=FFFFFF" />
 </a>
 
 </div>
