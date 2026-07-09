@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Kinjal&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=230&section=header&text=Kinjal&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=52&descSize=20&animation=fadeIn" />
 
 </div>
 
@@ -77,9 +77,7 @@ public class Kinjal {
 <!-- PROJECTS:START -->
 | Project | Language | Description | Stars |
 |---------|----------|-------------|-------|
-| 🔗 [**genai-personal-assistant-springboot**](https://github.com/kinjalss/genai-personal-assistant-springboot) | `Java` | Generative AI-powered Personal Assistant using Spring Boot and Google Gemini API. | ⭐ 0 |
-| 🔗 [**php**](https://github.com/kinjalss/php) | `PHP` | No description yet. | ⭐ 0 |
-| 🔗 [**java-spring**](https://github.com/kinjalss/java-spring) | `Java` | No description yet. | ⭐ 0 |
+| 🔗 Loading... | — | This table auto-populates on the first workflow run. | — |
 <!-- PROJECTS:END -->
 
 ---
