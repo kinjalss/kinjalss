@@ -119,5 +119,5 @@ public class Kinjal {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer&animation=fadeIn" />
 
-[![Hits](https://hits.sh/github.com/kinjalss.svg?style=for-the-badge)](https://hits.sh)
+[![Profile Views](https://komarev.com/ghpvc/?username=kinjalss&style=for-the-badge&color=EC4899)](https://github.com/kinjalss)
 </div>
