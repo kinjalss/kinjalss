@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ashwin&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Kinjal&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=58&descSize=20&animation=fadeIn" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ashwin+%F0%9F%91%8B;Full-Stack+Java+%2B+React+Developer;Hackathon+Winner+%F0%9F%8F%86;Building+toward+FAANG+%F0%9F%9A%80;Open+to+Internships+%26+Collabs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kinjal+%F0%9F%91%8B;Full-Stack+Java+%2B+React+Developer;Solving+DSA+on+LeetCode+%26+HackerRank+%F0%9F%92%BB;Building+Clean%2C+Scalable+Apps+%F0%9F%9A%80;Open+to+Internships+%26+Collabs)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,13 +17,13 @@
 ## 🧠 About Me
 
 ```java
-public class Ashwin {
+public class Kinjal {
 
     String[] stack     = {"Java", "Spring Boot", "React", "MySQL"};
-    String   degree    = "B.Tech CSE";
+    String   degree    = "B.Tech Computer Science";
     String   focus     = "Backend-heavy Full-Stack Development";
-    String[] currently = {"DSA on LeetCode", "AWS + Spring Cloud", "Building FAANG-ready projects"};
-    String   goal      = "Google SWE 🎯";
+    String[] currently = {"DSA on LeetCode", "HackerRank", "Building full-stack projects"};
+    String   goal      = "Software Engineer 🎯";
     boolean  openTo    = true; // internships & collaborations
 
     void run() {
@@ -63,63 +63,21 @@ public class Ashwin {
 ---
 
 ## 📊 GitHub Stats
-*(self-hosted via GitHub Actions — no third-party API calls, so it never goes down)*
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
-<img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
-
-<br/>
-
-<img src="./profile/streak.svg" alt="GitHub Streak" width="65%" />
+![GitHub Streak](https://streak-stats.demolab.com?user=kinjalss&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 ## 🚀 Latest Projects
-*(auto-updates — always shows the 3 most recently pushed repos, newest first)*
 
 <!-- PROJECTS:START -->
-<div align="center">
-
-<table>
-<tr>
-<td align="center" valign="top" width="33%">
-
-**🔗 [genai_java](https://github.com/0-ashwin-nair-0/genai_java)**
-<br/>`Java`
-<br/><br/>
-A Spring Boot backend service that connects to Google's Gemini API to power a simple conversational AI assistant with basic memory of past messages.
-<br/><br/>
-⭐ 0
-
-</td>
-<td align="center" valign="top" width="33%">
-
-**🔗 [student-management-system](https://github.com/0-ashwin-nair-0/student-management-system)**
-<br/>`N/A`
-<br/><br/>
-No description yet.
-<br/><br/>
-⭐ 0
-
-</td>
-<td align="center" valign="top" width="33%">
-
-**🔗 [java-journey](https://github.com/0-ashwin-nair-0/java-journey)**
-<br/>`Java`
-<br/><br/>
-Building strong Java fundamentals through hands-on coding, problem-solving, and real-world development.
-<br/><br/>
-⭐ 0
-
-</td>
-</tr>
-</table>
-
-</div>
+| Project | Language | Description | Stars |
+|---------|----------|-------------|-------|
+| 🔗 Loading... | — | This table auto-populates on the first workflow run. | — |
 <!-- PROJECTS:END -->
 
 ---
@@ -128,31 +86,7 @@ Building strong Java fundamentals through hands-on coding, problem-solving, and 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0-ashwin-nair-0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-*(self-hosted via GitHub Actions — no third-party API calls, so it never goes down)*
-
-<div align="center">
-
-<img src="./profile/trophy.svg" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🏅 Hackathons
-
-<div align="center">
-
-| # | Event | Organizer | Result |
-|---|-------|-----------|--------|
-| 1 | Sustainable Development Goals Hackathon | Pimpri Chinchwad University | 🥇 1st Place |
-| 2 | Code4Society | Samsung Innovation Campus | 🥈 2nd Place |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kinjalss&bg_color=0d1117&color=ec4899&line=8b5cf6&point=f59e0b&area=true&hide_border=true" />
 
 </div>
 
@@ -162,20 +96,26 @@ Building strong Java fundamentals through hands-on coding, problem-solving, and 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-nair0309/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ashwin_nair0309)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ashwin_nair309)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinjal-surve-b638b1288)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kinja1234/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kinjalsurvepune)
 
 </div>
 
 ---
 <div align="center">
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinjalss&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
 ### 🌱 Always learning. Always building. Always improving.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer&animation=fadeIn" />
 
-[![Hits](https://hits.sh/github.com/0-ashwin-nair-0.svg?style=for-the-badge)](https://hits.sh)
+[![Hits](https://hits.sh/github.com/kinjalss.svg?style=for-the-badge)](https://hits.sh)
 </div>
